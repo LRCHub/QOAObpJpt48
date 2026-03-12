@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ハレルヤ",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T16:47:58.264779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハレルヤ!!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_ハレルヤ!!!!_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハレルヤ(Do As Infinity Acoustic Tour 2016 -2 of Us-)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/02_ハレルヤ(Do_As_Infinity_Acoustic_Tour_2016_-2_of_Us-)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハレルヤ！",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/03_ハレルヤ!_Do_As_Infinity.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハレルヤ Instrumental",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/04_ハレルヤ_Instrumental_Do_As_Infinity.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/05_ハレルヤ_Do_As_Infinity.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/06_ハレルヤ_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハレルヤ☆エッサイム",
+      "artist": "ガヴリール(CV:富田美憂)、ヴィーネ(CV:大西沙織)、サターニャ(CV:大空直美)、ラフィエル(CV:花澤香菜)",
+      "has_synced": false,
+      "path": "select/07_ハレルヤ☆エッサイム_ガヴリール(CV_富田美憂)、ヴィーネ(CV_大西沙織)、サターニャ(CV_大空直美)、ラフィエル(CV_花澤香菜).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "AAA",
+      "has_synced": false,
+      "path": "select/08_ハレルヤ_AAA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハレルヤ☆エッサイム",
+      "artist": "ガヴリール (CV: 富田美憂), ヴィーネ (CV: 大西沙織), サターニャ (CV: 大空直美), ラフィエル (CV: 花澤香菜)",
+      "has_synced": false,
+      "path": "select/09_ハレルヤ☆エッサイム_ガヴリール_(CV__富田美憂),_ヴィーネ_(CV__大西沙織),_サターニャ_(CV__大空直美),_ラフィエル_(CV__花澤香菜).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハレルヤ☆エッサイム",
+      "artist": "ガヴリール(CV:富田美憂)",
+      "has_synced": false,
+      "path": "select/10_ハレルヤ☆エッサイム_ガヴリール(CV_富田美憂).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハレルヤ☆エッサイム",
+      "artist": "ガヴリール",
+      "has_synced": false,
+      "path": "select/11_ハレルヤ☆エッサイム_ガヴリール.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "Hiroji Miyamoto",
+      "has_synced": true,
+      "path": "select/12_ハレルヤ_Hiroji_Miyamoto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "パーリー! ハレルヤ!",
+      "artist": "SKET ROCK (吉野裕行, 下野紘, 杉田智和, 関智一)",
+      "has_synced": false,
+      "path": "select/13_パーリー!_ハレルヤ!_SKET_ROCK_(吉野裕行,_下野紘,_杉田智和,_関智一).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/14_ハレルヤ_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハレルヤ (15thbest)",
+      "artist": "AAA",
+      "has_synced": true,
+      "path": "select/15_ハレルヤ_(15thbest)_AAA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アンチ・ハレルヤ",
+      "artist": "GRAPEVINE",
+      "has_synced": false,
+      "path": "select/16_アンチ・ハレルヤ_GRAPEVINE.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハレルヤ☆エッサイム",
+      "artist": "ガヴリール(CV:富田美憂)、ヴィーネ(CV:大西沙織)、サターニャ(CV:大空直美)、ラフィエル(CV:花澤香菜)",
+      "has_synced": true,
+      "path": "select/17_ハレルヤ☆エッサイム_ガヴリール(CV_富田美憂)、ヴィーネ(CV_大西沙織)、サターニャ(CV_大空直美)、ラフィエル(CV_花澤香菜).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ハレルヤ",
+      "artist": "神崎エルザ starring ReoNa",
+      "has_synced": true,
+      "path": "select/18_ハレルヤ_神崎エルザ_starring_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ハレルヤ!!!!",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/19_ハレルヤ!!!!_GREEEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハレルヤ",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_ハレルヤ_amazarashi.txt"
+    }
+  ]
+}
